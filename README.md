@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [a app to show energy prices.](https://github.com/thesneilert/Sommer-Prosjekt-1).
 
-- 🌱 I’m currently learning **Js, ts, api.**
+- 🌱 I’m currently learning **different languages.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
