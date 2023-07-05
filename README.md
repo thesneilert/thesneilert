@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eilert</h1>
 <h3 align="center">A passionate student developer from Norway</h3>
 
+
 - 🔭 I’m currently working on [a power pricing app.](https://github.com/thesneilert/Sommer-Prosjekt-1).
 
 - 🌱 I’m currently learning **different languages.**
