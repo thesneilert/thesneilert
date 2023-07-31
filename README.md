@@ -2,9 +2,9 @@
 <h3 align="center">A passionate student developer from Norway</h3>
 
 
-- 🔭 I’m currently working on a power pricing app.
+- 🔭 I’m currently working on a **power pricing app**.
 
-- 🌱 I’m currently learning **different languages.**
+- 🌱 I’m currently learning **react and tailwind.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
