@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React** and **Tailwind CSS**.
 
-- 🧑‍🎓I am currently a student at Get Academy.
+- 🧑‍🎓 I’m currently a student at Get Academy.
 
 
 <h3 align="left">Connect with me:</h3>
