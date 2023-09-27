@@ -1,13 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eilert Rygh</h1>
-<h3 align="center">A passionate student software developer from Norway</h3>
-
-
-
-- 🔭 I’m currently working on **a power pricing app**.
-
-- 🌱 I’m currently learning **React** and **Tailwind CSS**.
-
-- 🧑‍🎓 I’m currently a student at Get Academy.
+<h3 align="center">A passionate developer from Norway</h3>
 
 
 <h3 align="left">Connect with me:</h3>
